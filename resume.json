@@ -1,0 +1,226 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Loic Houssier",
+    "label": "VP Engineering",
+    "image": "",
+    "email": "loic.houssier@gmail.com",
+    "phone": "(415) 217-9887",
+    "url": "",
+    "summary": "Seasoned engineering leader with track record of solid execution. Experienced in remote and distributed context. From startups to large public companies. Went through hypergrowth and multiple M&A. Leadership style based on empathy, empowerment and clarity setting. Work best in an environment where radical candor, respect and transparency are strong values.",
+    "location": {
+      "address": "39 Christopher drive",
+      "postalCode": "CA 94131",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@hobbes188",
+        "url": "https://twitter.com/hobbes188"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "houssier",
+        "url": "https://www.linkedin.com/in/houssier/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Firstbase (Serie B - A16Z / Kleiner)",
+      "location": "San Francisco (Remote)",
+      "description": "Set up, manage, and retrieve all the physical equipment remote workers need.",
+      "position": "VP Engineering",
+      "url": "http://www.firstbase.com",
+      "startDate": "2021-11-15",
+      "summary": "I joined Firstbase to take the relay from the founding CTO. I was given the mission to upgrading the pace and structure the organization to face a traction that went too early. I had to change the engineering culture toward more sustainable velocity and with better customer empathy.",
+      "highlights": [
+        "With the help of my team I grew a group of 6 engineers to a team of 30 highly execution oriented contributors",
+        "Hired a solid bench of leaders (Director level) from my network",
+        "Hired engineers from diverse sources, accross the globe optimizing on referrals and select recruiters to optimize for speed and quality",
+        "Structured the team around pods to address the multifaceted aspect of our business : consumer app, B2B app dedicated to IT admins, and internal tools to support our workforce on the ground",
+        "Built our IT and security practices, sanctioned by our SOC-2 Type 2 certification in 6 month",
+        "Build an execution framework to drive the executive leadership team toward better delivery of our major priorities, acting as a COO"
+      ]
+    },
+    {
+      "company": "Docusign",
+      "location": "San Francisco",
+      "description": "The digital signature company",
+      "position": "VP Engineering",
+      "url": "http://www.docusign.com",
+      "startDate": "2017-01-01",
+      "endDate": "2021-11-15",
+      "summary": "Relocated in the San francisco office with the mission to help a portfolio of teams facing different challenges. Led a group of 150+ engineers (eCommerce, Mobile, ML, DevOps, Program Management, Release Management and Backend Data integrations). 2 main priorities were given to me and my group: upgrade the web sales business in collaboration with the SVP Marketing and sunset an acitvity and its associated team in LATAM.",
+      "highlights": [
+        "Improve the execution of our eCommerce team to match the expectation of our marketing partner. I had to upgrade the previous leader and hire externally. Execution improved significantly in terms of commitment respected and number of commtiments taken per quarter. Better visibility was offered to the SVP of marketing, securing the predictability of the web sales business, critical post-IPO",
+        "Managed the sunset, top to bottom, of an office in Brazil as an aftermath of multiple acquisitions. Cross functional work to identify the process to drive a smooth a reduction in force (as possible) while keeping people around enough to maitain services up and running until full decommision (including DataCenters). Worked with HR, Legal, Finance and PR mainly. Managed to keep the best engineers, relocated to our main office in Seattle",
+        "Launched the first AI/ML capacity to improve the experience in tagging document uploaded to our platform (usage of OCR, NLP and Vision APIs)",
+        "Improved drastically the visibility and adoption of DevOps tooling in the whole Organization by coaching the team and driving roadshows",
+        "Improved efficiency of our yearly and quarterly planning in collaboration with a VP Product, former Amazon, embrassing the PR-FAQ model to document big bets and get alignement on priorisation and execution"
+      ]
+    },
+    {
+      "company": "Docusign",
+      "location": "Paris",
+      "description": "The digital signature company",
+      "position": "Senior Director",
+      "url": "http://www.docusign.com",
+      "startDate": "2015-06-01",
+      "endDate": "2017-01-01",
+      "summary": "Docusign acquired OpenTrust in 2015. We spend 2 years managing the acquisition. I was based in Paris and did monthly trip to Seattle and San Francisco to ensure the success of the acquisition. Contrary to classic M&A activity, we had the added difficulty of dealing with the French government. They vetoed a full acquisition. Opentrust had 2 business lines. One focusing on strong authentication with deep link to the French DoD. One other focused on B2B market offering white label capability to digitally sign. Main reason of the acquisition by Docusign. We spent the 2 years managing a proper carve out of the activites into 2 sustainable companies, only one being sold to Docusign. All of that while supporting the business (fly the plane)",
+      "highlights": [
+        "Succesfully managed the intergation of hte French squad into the global Docusign strategy",
+        "Clarified the mission of the frrench engineering group and the alignement with other acquisition",
+        "Separated both systems (Datacenters, Infrastructure, Frameworks and source code)",
+        "Separated the intial team in 2 squads with relevant knowledge transistion",
+        "Built from scratch 2 Datacenters and keeping our certifications (eIDAS) during the transition from French ownership to US Ownership"
+      ]
+    },
+    {
+      "company": "OpenTrust",
+      "location": "Paris",
+      "description": "The digital signature company",
+      "position": "CTO",
+      "url": "http://www.docusign.com",
+      "startDate": "2013",
+      "endDate": "2015",
+      "summary": "OpenTrust (120+ employees) was the european leader of Digital Signature and Strong Authentication. Mostly targeting French Administration and Bank and Insurance. As CTO I was leading both the technical strategy and the organizational management of our team of 40 engineers. I led the communication and relationship with our main technical customers (mostly DoD and Bank CISO) and auditors. I was hired to bring a focus on execution and provide an enterprise grade relationship with our main customers. My past in the desense industry on security topics were key.",
+      "highlights": [
+        "Join ",
+        "Structured the team to address the challenges and opportunities",
+        "Defined the technical strategy for the Product",
+        "Set in place the bases practices toward engineering excellence",
+        "Led the acquisition of our main competitor, focused on B2B market"
+      ]
+    },
+    {
+      "company": "OpenTrust",
+      "location": "Paris",
+      "description": "The digital signature company",
+      "position": "Solution Architect",
+      "url": "http://www.docusign.com",
+      "startDate": "2011",
+      "endDate": "2013",
+      "summary": "OpenTrust (120+ employees) was the european leader of Digital Signature and Strong Authentication. Sort of a JV between major France defense industry players. Mostly targeting French Administrations and Bank & Insurance. As Solution Architect I was leading the delivery of our integration projects (on-prem) for major customers (mostly DoD and Banks). I was hired to bring a focus on execution and provide an enterprise grade relationship. My past in the defense industry on security topics were key for my success."
+    },
+    {
+      "company": "Thales",
+      "location": "Paris",
+      "description": "Major Defense Player",
+      "position": "Security Engineering Manager",
+      "url": "http://www.thales.com",
+      "startDate": "2011",
+      "endDate": "2007",
+      "summary": "Thales is a major player in the Defense Industry. I joined to lead a team of security specialists. We focused on the implementation and integration of platforms securing critical information infrastructures (AirPorts, SOC, Passport creation centers, etc.)"
+    },
+    {
+      "company": "Orange (Former France Telecom)",
+      "location": "Paris",
+      "description": "Major Telco Security Player",
+      "position": "Security Research Engineer",
+      "url": "http://www.orange-labs.com",
+      "startDate": "2003",
+      "endDate": "2007",
+      "summary": "Orange is a major telecommuniciation player in Europe. I was hired as part of their security research lab. Spent my time playing with security primitives and their usages. Worked mainly with C, C++, Java, smart card and hardware security modules (HSM)"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Plato",
+      "position": "Mentor",
+      "url": "https://platohq.com/",
+      "startDate": "2017-01-01",
+      "endDate": "",
+      "summary": "Dedicate weekly hour to offer feedback session to other engineering leader. Great opportunity to give back.",
+      "highlights": [
+        "9.8 rating based on 20+ mentees supported"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Limoges",
+      "url": "https://www.unilim.fr/?lang=en",
+      "area": "Applied Mathematics and Cryptography",
+      "studyType": "Master",
+      "startDate": "2002",
+      "endDate": "2003"
+    },
+    {
+      "institution": "University of Paris",
+      "url": "https://u-paris.fr/en/",
+      "area": "Mathematics",
+      "studyType": "Bachelor",
+      "startDate": "1998",
+      "endDate": "2002"
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "Various patents",
+      "url": "https://patents.google.com/?inventor=Loic+Houssier",
+      "summary": "INPI (France) with some EU and US extension. Mostly around security. https://patents.google.com/?inventor=Loic+Houssier"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Executive Leadership",
+      "level": "",
+      "keywords": [
+        "M&A",
+        "Budgeting and P&L",
+        "Strategic investment",
+        "Partnerships",
+        "Board Management"
+      ]
+    },
+    {
+      "name": "Organization Management",
+      "level": "",
+      "keywords": [
+        "Organization structure", 
+        "Growth and RIF",
+        "Hiring at scale with bar raiser"
+      ]
+    },
+    {
+      "name": "Roadmap Execution",
+      "level": "",
+      "keywords": [
+        "Yearly and Quaterly planning",
+        "Agile priorisation",
+        "Rapid Response Execution"
+      ]
+    },
+    {
+      "name": "Technical Strategy",
+      "level": "",
+      "keywords": [
+        "Architecture",
+        "SDLC",
+        "Engineering Excellence",
+        "Build vs Buy"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
