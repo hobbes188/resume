@@ -1,0 +1,13 @@
+---
+name: jsonresume in pdf and html
+command: "resume export resume-{{theme}}.pdf --theme {{theme}} ; resume export resume-{{theme}}.html --theme {{theme}}"
+tags:
+  - json-resume
+description: generates a resume in both pdf and html takign in input the theme to be used
+arguments:
+  - name: theme
+    description: The theme to apply
+    default_value: caffeine
+author: Loic
+# The URL of original author of the Workflow. For example, if this workflow was generated from StackOverflow, the `author_url` would be the StackOverflow author's profile page.
+shells: []
