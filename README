@@ -3,3 +3,6 @@ The purpose of this repo is to do some testing with jsonresume.org
 
 Changelog:
 2022-11-19 added scaffolding of the project including a simple warp workflow
+
+To use:
+Use the warp workflow called `jsonresume`
