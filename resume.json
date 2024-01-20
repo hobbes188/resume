@@ -31,7 +31,7 @@
   },
   "work": [
     {
-      "company": "ProductBoard",
+      "name": "ProductBoard",
       "location": "San Francisco",
       "description": "Best platform and system of work for Product Manager",
       "position": "SVP Engineering",
@@ -39,16 +39,14 @@
       "startDate": "2023-06-01",
       "summary": "As the SVP of Engineering at Productboard, I am honored to lead a talented team in our strategic shift upmarket. My role involves clarifying our mission and refining our execution processes, always with a focus on collaboration and collective excellence. Together, we are navigating a significant transformation, striving to deliver innovative solutions that meet the evolving needs of our market. I am continually inspired by the dedication and ingenuity of our team, as we work towards setting new standards in our industry.",
       "highlights": [
-        "With the help of my team I grew a group of 6 engineers to a team of 30 highly execution oriented contributors",
-        "Hired a solid bench of leaders (Director level) from my network",
-        "Hired engineers from diverse sources, accross the globe optimizing on referrals and select recruiters to optimize for speed and quality",
-        "Structured the team around pods to address the multifaceted aspect of our business : consumer app, B2B app dedicated to IT admins, and internal tools to support our workforce on the ground",
-        "Built our IT and security practices, sanctioned by our SOC-2 Type 2 certification in 6 month",
-        "Build an execution framework to drive the executive leadership team toward better delivery of our major priorities, acting as a COO"
+        "Kicked Off a new office in San Francisco",
+        "Helped the transition to a flatten organization, with less but more experience tech leaders",
+        "X",
+        "Y"
       ]
     }, 
     {
-      "company": "Firstbase",
+      "name": "Firstbase",
       "location": "San Francisco (Remote)",
       "description": "Set up, manage, and retrieve all the physical equipment remote workers need.",
       "position": "VP Engineering",
@@ -66,7 +64,7 @@
       ]
     },
     {
-      "company": "Docusign",
+      "name": "Docusign",
       "location": "San Francisco",
       "description": "The digital signature company",
       "position": "VP Engineering",
@@ -83,7 +81,7 @@
       ]
     },
     {
-      "company": "Docusign",
+      "name": "Docusign",
       "location": "Paris",
       "description": "The digital signature company",
       "position": "Senior Director of Engineering",
@@ -100,7 +98,7 @@
       ]
     },
     {
-      "company": "OpenTrust",
+      "name": "OpenTrust",
       "location": "Paris",
       "description": "The digital signature company",
       "position": "CTO",
@@ -117,7 +115,7 @@
       ]
     },
     {
-      "company": "OpenTrust",
+      "name": "OpenTrust",
       "location": "Paris",
       "description": "The digital signature company",
       "position": "Solution Architect",
@@ -127,7 +125,7 @@
       "summary": "OpenTrust (120+ employees) was the european leader of Digital Signature and Strong Authentication. Sort of a JV between major France defense industry players. Mostly targeting French Administrations and Bank & Insurance. As Solution Architect I was leading the delivery of our integration projects (on-prem) for major customers (mostly DoD and Banks). I was hired to bring a focus on execution and provide an enterprise grade relationship. My past in the defense industry on security topics were key for my success."
     },
     {
-      "company": "Thales",
+      "name": "Thales",
       "location": "Paris",
       "description": "Major Defense Player",
       "position": "Security Engineering Manager",
@@ -137,7 +135,7 @@
       "summary": "Thales is a major player in the Defense Industry. I joined to lead a team of security specialists. We focused on the implementation and integration of platforms securing critical information infrastructures (AirPorts, SOC, Passport creation centers, etc.)"
     },
     {
-      "company": "Orange (Former France Telecom)",
+      "name": "Orange (Former France Telecom)",
       "location": "Paris",
       "description": "Major Telco Security Player",
       "position": "Security Research Engineer",
