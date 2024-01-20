@@ -1,0 +1,33 @@
+name: Update Gist
+
+on:
+  push:
+    branches:
+      - main  # or the branch of your choice
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+     - uses: actions/checkout@v3
+     - name: Deploy
+       uses: exuanbo/actions-deploy-gist@v1
+       with:
+          token: ${{ secrets.GIST_TOKEN }}
+          gist_id: 60a85995be677c90ba614d6784dd90e4
+          file_path: resume.json
+          file_type: txt
+   
+   
+   #with:
+ # Auth token with gist permissions
+     #auth: ${{ secrets.GIST_TOKEN }}
+    # URL of the gist
+     #gist_url: https://gist.github.com/hobbes188/60a85995be677c90ba614d6784dd90e4
+    # Title of the gist
+    # gist_title: JsonResumeLHO 
+    # Description of the gist
+    # gist_description: LHO resume
+    # The Filename with the contents we want to mirror
+    # github_file: resume.json
+    
