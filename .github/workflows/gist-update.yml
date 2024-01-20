@@ -1,0 +1,22 @@
+name: Update Gist
+
+on:
+  push:
+    branches:
+      - main  # or the branch of your choice
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update Gist
+        uses: jasonetco/gist-sync-action@v1
+        with:
+          gist_id: 60a85995be677c90ba614d6784dd90e4 # replace with your Gist ID
+          file: resume.json # replace with the path to the file in your repository
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
