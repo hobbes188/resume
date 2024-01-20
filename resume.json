@@ -1,11 +1,10 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Loic Houssier",
-    "label": "VP Engineering",
+    "label": "CTO / SVP Engineering",
     "image": "",
     "email": "loic.houssier@gmail.com",
-    "phone": "(415) 217-9887",
+    "phone": "+1 (415) 217-9887",
     "url": "",
     "summary": "Seasoned engineering leader with track record of solid execution. Experienced in remote and distributed context. From startups to large public companies. Went through hypergrowth and multiple M&A. Leadership style based on empathy, empowerment and clarity setting. Work best in an environment where radical candor, respect and transparency are strong values.",
     "location": {
@@ -23,14 +22,31 @@
       },
       {
         "network": "LinkedIn",
-        "username": "houssier",
-        "url": "https://www.linkedin.com/in/houssier/"
+        "username": "in/lhoussier",
+        "url": "https://www.linkedin.com/in/lhoussier/"
       }
     ]
   },
   "work": [
     {
-      "company": "Firstbase (Serie B - A16Z / Kleiner)",
+      "company": "ProductBoard",
+      "location": "San Francisco",
+      "description": "Best platform and system of work for Product Manager",
+      "position": "SVP Engineering",
+      "url": "http://www.productboard.com",
+      "startDate": "2023-06-01",
+      "summary": "I joined Firstbase to take the relay from the founding CTO. I was given the mission to upgrading the pace and structure the organization to face a traction that went too early. I had to change the engineering culture toward more sustainable velocity and with better customer empathy.",
+      "highlights": [
+        "With the help of my team I grew a group of 6 engineers to a team of 30 highly execution oriented contributors",
+        "Hired a solid bench of leaders (Director level) from my network",
+        "Hired engineers from diverse sources, accross the globe optimizing on referrals and select recruiters to optimize for speed and quality",
+        "Structured the team around pods to address the multifaceted aspect of our business : consumer app, B2B app dedicated to IT admins, and internal tools to support our workforce on the ground",
+        "Built our IT and security practices, sanctioned by our SOC-2 Type 2 certification in 6 month",
+        "Build an execution framework to drive the executive leadership team toward better delivery of our major priorities, acting as a COO"
+      ]
+    }, 
+    {
+      "company": "Firstbase",
       "location": "San Francisco (Remote)",
       "description": "Set up, manage, and retrieve all the physical equipment remote workers need.",
       "position": "VP Engineering",
