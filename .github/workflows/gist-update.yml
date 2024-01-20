@@ -1,12 +1,24 @@
+name: Update Gist
 
-- uses: actions/checkout@v3
-- name: Deploy
-  uses: exuanbo/actions-deploy-gist@v1
-  with:
-    token: ${{ secrets.GIST_TOKEN }}
-    gist_id: 60a85995be677c90ba614d6784dd90e4
-    file_path: resume.json
-    file_type: txt
+on:
+  push:
+    branches:
+      - main  # or the branch of your choice
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+
+    steps:
+      name: checkout
+        uses: actions/checkout@v3
+      name: Deploy
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.GIST_TOKEN }}
+          gist_id: 60a85995be677c90ba614d6784dd90e4
+          file_path: resume.json
+          file_type: txt
    
    
    #with:
